@@ -1,0 +1,1 @@
+{"name":"更好的移动视觉","author":"丷米苏丷","jumpPath":"https://steamcommunity.com/sharedfiles/filedetails/?id=2816557864","description":"作者：丷米苏丷\n\n参考 Workshop「Improved Movement Visuals」(id 2816557864，2024.9 版本) 的人物动作视觉思路，在 tPlainModLoader 上实现：\n\n· 头部看向鼠标\n· 身体朝向鼠标\n· 移动时身体前倾/后仰\n· 史莱姆、僵尸 AI、小动物 AI 的倾斜\n\n不影响游戏数值，纯视觉。配置：模组目录下 setting.json，或在模组设置界面调整。"}
