@@ -11,3 +11,5 @@ setting.json.bak
 draw-log.txt
 patch-errors.txt
 dll/
+
+dist/

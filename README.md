@@ -1,6 +1,6 @@
 # 更好的移动视觉 / Improved Movement Visuals
 
-tPlainModLoader (Terraria 1.4.5) 纯视觉模组。
+tPlainModLoader (Terraria 1.4.6.1) 纯视觉模组。
 
 参考 Workshop 模组「Improved Movement Visuals」（id 2816557864，2024.9 版本）的动作视觉思路，在 tPlainModLoader 上重新实现，**不影响任何游戏数值**。
 
